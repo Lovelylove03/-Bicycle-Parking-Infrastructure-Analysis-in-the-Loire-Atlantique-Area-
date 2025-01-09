@@ -1,7 +1,5 @@
 # -Bicycle-Parking-Infrastructure-Analysis-in-the-Loire-Atlantique-Area-
 
-- Analyzed parking data in the Loire-Atlantique area. [See Full Report](https://github.com/lavenderoyugi/-Bicycle-Parking-Infrastructure-Analysis-in-the-Loire-Atlantique-Area-/blob/main/report.pdf)
-
 
 This project contains an analysis of the bicycle parking infrastructure in the Loire-Atlantique area, France. The aim is to provide insights into geospatial distribution, capacity utilization, and opportunities for infrastructure improvement across several municipalities in the region.
 
